@@ -1,0 +1,14 @@
+# ========================================================
+# MUET BUS & ROUTE MANAGEMENT SYSTEM - LOCAL DATABASE
+# Mehran University of Engineering & Technology, Jamshoro
+# ========================================================
+05|Point 05|MUET Jamshoro|Hyder Chowk, Hyderabad|07:30 AM|02:15 PM & 04:30 PM|65|Muhammad Ramzan|0300-9281741|MUET Main Gate,25.4055,68.2598,07:30 AM;Zero Point Jamshoro,25.426,68.271,07:45 AM;Kotri Barrage,25.3725,68.309,08:00 AM;Shahbaz Building,25.4042,68.3582,08:15 AM;Saddar Cantt,25.3965,68.3615,08:22 AM;Hyder Chowk,25.3924,68.3684,08:30 AM
+31|Point 31|MUET Jamshoro|Latifabad Unit 7, Hyderabad|07:20 AM|02:15 PM & 05:00 PM|70|Abdul Ghaffar|0312-3847291|MUET Main Gate,25.4055,68.2598,07:20 AM;Jamshoro Phatak,25.418,68.275,07:32 AM;Kotri Kabir Road,25.365,68.318,07:50 AM;Auto Bhan Road,25.378,68.341,08:05 AM;Latifabad Unit 2,25.3755,68.352,08:15 AM;Latifabad Unit 7,25.362,68.355,08:25 AM
+01|Point 01|MUET Jamshoro|Gul Centre, Hyderabad|07:30 AM|02:15 PM & 04:30 PM|65|Ghulam Mustafa|0301-4458921|MUET Main Gate,25.4055,68.2598,07:30 AM;Kotri Old Bridge,25.371,68.312,07:52 AM;Rajputana Hospital,25.391,68.348,08:08 AM;Cantt Station,25.394,68.355,08:18 AM;Saddar Bazar,25.3965,68.3615,08:24 AM;Gul Centre,25.395,68.371,08:32 AM
+07|Point 07|MUET Jamshoro|Kohsar, Latifabad|07:15 AM|02:15 PM & 04:30 PM|60|Khadim Hussain|0345-8172930|MUET Main Gate,25.4055,68.2598,07:15 AM;Kotri Industrial Area,25.358,68.315,07:35 AM;Latifabad Unit 11,25.356,68.362,07:55 AM;Latifabad Unit 8,25.359,68.358,08:10 AM;Kohsar Chowk,25.352,68.375,08:25 AM
+12|Point 12|MUET Jamshoro|Hala Naka, Hyderabad|07:25 AM|02:15 PM & 04:30 PM|65|Zameer Ahmed|0313-9021845|MUET Main Gate,25.4055,68.2598,07:25 AM;Jamshoro Bypass,25.432,68.285,07:40 AM;Channel Stop,25.428,68.32,07:55 AM;Central Jail Road,25.423,68.355,08:10 AM;City Gate,25.419,68.372,08:20 AM;Hala Naka,25.425,68.385,08:30 AM
+18|Point 18|MUET Jamshoro|Kotri Old City|07:45 AM|02:15 PM & 05:00 PM|55|Tariq Mehmood|0305-6712398|MUET Main Gate,25.4055,68.2598,07:45 AM;Al-Manzar River View,25.419,68.271,07:55 AM;Thermal Power Station,25.385,68.301,08:10 AM;Jamshoro Railway Crossing,25.378,68.31,08:20 AM;Kotri Old City,25.368,68.314,08:30 AM
+
+
+45|Point 45|MUET Jamshoro|Iqabal Town|07:30 AM|02:15 PM & 04:30 PM|65|Gudu|03xxxxxxxxxx|MUET Main Gate,25.4055,68.2598,07:30 AM;Zero Point Jamshoro,25.4260,68.2710,07:45 AM;Hyder Chowk,25.3924,68.3684,08:30 AM
+89|Point 55|MUET Jamshoro|Hala|07:30 AM|02:15 PM & 04:30 PM|33|Test|03333333|MUET Main Gate,25.4055,68.2598,07:30 AM;Zero Point Jamshoro,25.4260,68.2710,07:45 AM;Hyder Chowk,25.3924,68.3684,08:30 AM
